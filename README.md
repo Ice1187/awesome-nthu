@@ -2,7 +2,7 @@
 蒐集各種與清大相關的開源資源與網站的平台
 
 ### Decaptcha
-- [NTHU OAuth Decaptcha](https://chrome.google.com/webstore/detail/nthu-oauth-decaptcha/mflpajkffpiibelpmffonolenndbgogp?hl=zh-TW) / [https://github.com/justin0u0/NTHU-OAuth-Decaptcha]
+- [NTHU OAuth Decaptcha](https://chrome.google.com/webstore/detail/nthu-oauth-decaptcha/mflpajkffpiibelpmffonolenndbgogp?hl=zh-TW) / [https://github.com/justin0u0/NTHU-OAuth-Decaptcha](https://github.com/justin0u0/NTHU-OAuth-Decaptcha)
 
 ### 課程成績分布
 
