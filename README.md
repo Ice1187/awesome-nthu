@@ -1,6 +1,9 @@
 # awesome-nthu
 蒐集各種與清大相關的開源資源與網站的平台
 
+### Decaptcha
+- [NTHU OAuth Decaptcha](https://chrome.google.com/webstore/detail/nthu-oauth-decaptcha/mflpajkffpiibelpmffonolenndbgogp?hl=zh-TW) / [https://github.com/justin0u0/NTHU-OAuth-Decaptcha]
+
 ### 課程成績分布
 
 - [NTHU_ScoreSharing](https://chrome.google.com/webstore/detail/nthuscoresharing/fbbgchnopppgncdjbckkjehfchncghdf?hl=zh-TW) / [https://github.com/b0w1d/NTHU_ScoreSharing](https://github.com/b0w1d/NTHU_ScoreSharing)
